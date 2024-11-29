@@ -1,4 +1,5 @@
 ### Bem Vindo ao meu perfil
 
 Olá, meu Nome é Ulrico Tadeu Ulrich.
-Sou Professor de História e Pensamento Computacional.
+- Sou Professor de História e Pensamento Computacional.
+- Estudando a linguagem de programação JavaScript.
